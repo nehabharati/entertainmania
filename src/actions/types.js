@@ -1,0 +1,4 @@
+export const GET_UPCOMING = "GET_UPCOMING"
+export const MOVIES_LOADING = "MOVIES_LOADING"
+export const NOW_PLAYING = "NOW_PLAYING"
+export const TOP_RATED = "TOP_RATED"
